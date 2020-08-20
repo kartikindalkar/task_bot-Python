@@ -5,14 +5,14 @@ This Bot Is Help for you.To Open, execute or run task like Calculator(calc),Note
 You Can run this Bot on provided commands.
 Steps:
 1.Enter Your Name
-2.Enter your Task Name
+1.Enter your Task Name
     eg.notepad,firefox wmplayer,calc;
-For open notepad use **notepad** command
-For open wmplayer use **wmplayer** command
-For open calculator use **calc** command
-For open firefox use **firefox** command
+* For open notepad use **notepad** command
+* For open wmplayer use **wmplayer** command
+* For open calculator use **calc** command
+* For open firefox use **firefox** command
 
-3.Also you can enter command in english language like
+1.Also you can enter command in english language like
   open notepad,run firefox,
 can you open wmplayer,want to open calc,etc;
 
