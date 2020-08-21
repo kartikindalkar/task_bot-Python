@@ -19,4 +19,3 @@ can you open wmplayer,want to open calc,etc;
 
 below is file output...
 ![GitHub Logo](task_bot_output.png)
-Format: ![Alt Text]
