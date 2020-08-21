@@ -38,8 +38,7 @@ while True:
         or ("notepad" in keys))):
         os.startfile("notepad")
         pyt.speak("Notepad started")
-        
-        
+            
     elif((("run" in keys)
         and ("start" in keys)
         and ("execute" in keys)
@@ -97,7 +96,7 @@ while True:
         os.startfile("calc")
         pyt.speak("calc started")
         
-    elif(("no") or ("stop") or ("exit") or ("no thanks") or ("no thank you") or("bye") in key):
+    elif(("no") or ("stop") or ("exit") or ("no thanks") or ("no thank you") or("bye") or("close") in key):
         pyt.speak("Program exit")   
         pyt.speak("Welcome"+ name + "visit again")        
         break   
